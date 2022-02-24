@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chatter</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="aman">Aman</string>
+    <string name="log_out">Log Out</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="this_is_sent_message">This is sent message</string>
+    <string name="this_is_received_message">This is received message</string>
+</resources>
